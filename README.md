@@ -104,6 +104,17 @@ An interactive simulator for automata theory: define your own **DFA, NFA or ε-N
 
 ---
 
+## 💊 MediForecast AI: Medicine Demand Prediction System
+
+A machine learning system that forecasts **medicine demand** from historical demand data and serves predictions through a web app.
+
+- Random Forest regression model trained on historical demand
+- Flask backend with an HTML frontend for real-time predictions
+
+**Tech:** Python • Scikit-learn • Random Forest • Flask • HTML
+
+---
+
 # 💻 Data Structures & Algorithms
 
 Practising problem solving in **C++** on LeetCode.
@@ -111,6 +122,9 @@ Practising problem solving in **C++** on LeetCode.
 ### 📚 Topics I'm Practising
 
 `Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window` • `Recursion` • `Sorting` • `Binary Search` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `Dynamic Programming`
+
+🧩 **LeetCode:**
+https://leetcode.com/u/auanshul/
 
 🔗 **Solutions Repository:**
 https://github.com/anshulmittall/leetcode
@@ -183,6 +197,14 @@ Daily problem solving in C++ on LeetCode.
 
 ---
 
+# 🏆 Achievements
+
+- 🎓 **Dean's List, Semester 1**: awarded for a 9.72 SGPA
+- 💡 **Smart India Hackathon 2025**: ranked in the Top 20 teams in the college-level internal round
+- 🚀 **Participant**: Smart India Hackathon 2026, Microsoft Hackathon 2025
+
+---
+
 # 🤝 Let's Connect
 
 I'm always happy to talk about **data, forecasting, ML, or interesting problems**, and open to collaborating on projects.
@@ -192,6 +214,9 @@ anshulmttl123@gmail.com
 
 💼 **LinkedIn:**
 https://www.linkedin.com/in/auanshul/
+
+🧩 **LeetCode:**
+https://leetcode.com/u/auanshul/
 
 🐙 **GitHub:**
 https://github.com/anshulmittall
