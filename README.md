@@ -187,5 +187,11 @@ Daily problem solving in C++ on LeetCode.
 
 I'm always happy to talk about **data, forecasting, ML, or interesting problems**, and open to collaborating on projects.
 
+📧 **Email:**
+anshulmttl123@gmail.com
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/auanshul/
+
 🐙 **GitHub:**
 https://github.com/anshulmittall
